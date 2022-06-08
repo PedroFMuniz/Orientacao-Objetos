@@ -24,5 +24,7 @@ public class ex7 {
 		float pagamento = total - (total*(desconto/100));
 		
 		System.out.println(String.format("Total: R$ %.2f\nDesconto: R$ %.2f\nTotal a pagar: R$ %.2f", total, total*(desconto/100), pagamento));
+		
+		s.close();
 	}
 }

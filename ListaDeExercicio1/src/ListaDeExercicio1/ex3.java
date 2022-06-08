@@ -24,6 +24,7 @@ public class ex3 {
 		}else {
 			System.out.println("Nao e possivel calcular a raiz");
 		}
+		s.close();
 	
 	}
 

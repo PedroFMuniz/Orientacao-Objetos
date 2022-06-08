@@ -25,7 +25,7 @@ public class ex2 {
 		}else {
 			System.out.println("Voce digitou um caracter qualquer!");
 		}
-	
+		s.close();
 	}
 
 }

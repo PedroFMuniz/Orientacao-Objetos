@@ -22,5 +22,6 @@ public class ex6 {
 		}else {
 			System.out.println("O numero nao e primo");
 		}
+		s.close();
 	}
 }

@@ -22,7 +22,7 @@ public class ex5 {
 		}else {
 			System.out.println("Usuario incorreto");
 		}
-
+		s.close();
 	}
 
 }

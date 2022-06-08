@@ -63,6 +63,7 @@ public class ex4 {
 				System.out.println(String.format("A segunda data e maior (%d/%s/%d)",d2,mx2,a2));
 			}
 		}
+		s.close();
 	}
 
 }

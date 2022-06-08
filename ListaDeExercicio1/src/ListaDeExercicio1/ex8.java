@@ -16,7 +16,7 @@ public class ex8 {
 		}else {
 			System.out.println("Numero invalido");
 		}
-		
+		s.close();
 	}
 
 }
